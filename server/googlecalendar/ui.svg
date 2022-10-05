@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="ui.svg"
+   width="300"
+   height="360"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.7"
+     inkscape:cx="68.235294"
+     inkscape:cy="258.23529"
+     inkscape:window-width="3440"
+     inkscape:window-height="1378"
+     inkscape:window-x="2553"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <defs
+     id="defs747">
+    <path
+       id="calendar"
+       d="m 13.3,126.4 v -89 c 0,-2.4 0.9,-4.5 2.6,-6.3 1.7,-1.8 3.8,-2.6 6.2,-2.6 h 8.8 v -6.7 c 0,-3.1 1.1,-5.7 3.2,-7.9 2.2,-2.2 4.7,-3.3 7.8,-3.3 h 4.4 c 3,0 5.6,1.1 7.8,3.3 2.2,2.2 3.2,4.8 3.2,7.9 v 6.7 h 26.4 v -6.7 c 0,-3.1 1.1,-5.7 3.2,-7.9 2.2,-2.2 4.7,-3.3 7.8,-3.3 h 4.4 c 3,0 5.6,1.1 7.8,3.3 2.2,2.2 3.2,4.8 3.2,7.9 v 6.7 h 8.8 c 2.4,0 4.4,0.9 6.2,2.6 1.7,1.8 2.6,3.8 2.6,6.3 v 88.9 c 0,2.4 -0.9,4.5 -2.6,6.3 -1.7,1.8 -3.8,2.6 -6.2,2.6 H 22.1 c -2.4,0 -4.4,-0.9 -6.2,-2.6 -1.7,-1.8 -2.6,-3.8 -2.6,-6.2 z m 8.8,0 h 96.8 V 55.2 H 22.1 Z M 39.7,41.9 c 0,0.6 0.2,1.2 0.6,1.6 0.4,0.4 0.9,0.6 1.6,0.6 h 4.4 c 0.6,0 1.2,-0.2 1.6,-0.6 0.4,-0.4 0.6,-0.9 0.6,-1.6 v -20 c 0,-0.6 -0.2,-1.2 -0.6,-1.6 -0.4,-0.4 -0.9,-0.6 -1.6,-0.6 h -4.4 c -0.6,0 -1.2,0.2 -1.6,0.6 -0.4,0.4 -0.6,1 -0.6,1.6 z m 52.8,0 c 0,0.6 0.2,1.2 0.6,1.6 0.4,0.4 0.9,0.6 1.6,0.6 h 4.4 c 0.6,0 1.2,-0.2 1.6,-0.6 0.4,-0.4 0.6,-0.9 0.6,-1.6 v -20 c 0,-0.6 -0.2,-1.2 -0.6,-1.6 -0.4,-0.4 -0.9,-0.6 -1.6,-0.6 h -4.4 c -0.6,0 -1.2,0.2 -1.6,0.6 -0.4,0.4 -0.6,1 -0.6,1.6 z" />
+    <path
+       id="birthday"
+       d="m 66.550324,4.1347656 c -0.886487,0 -1.727439,0.4008231 -2.297431,1.0946605 -2.057972,2.5055413 -8.773709,11.0891319 -8.773709,16.3522399 0,6.23902 4.966523,11.314886 11.07114,11.314886 6.104617,0 11.071137,-5.076173 11.071137,-11.314886 0,-5.263108 -6.715735,-13.8466986 -8.773708,-16.3522399 C 68.277761,4.535282 67.436812,4.1347656 66.550324,4.1347656 Z m 0.0011,8.0219214 c 2.727563,3.761992 5.070048,7.811952 5.070048,9.424979 0,2.857825 -2.274956,5.18287 -5.071218,5.18287 -2.796262,0 -5.071221,-2.325045 -5.071221,-5.18287 0,-1.609041 2.344228,-5.660228 5.072391,-9.424979 z m -4.801105,23.805275 c -1.656878,0 -2.999959,1.372958 -2.999959,3.066007 v 17.13431 H 35.781434 c -8.270888,0 -14.999795,6.877055 -14.999795,15.330038 v 7.346442 c 0,1.693049 1.343381,3.066008 2.999959,3.066008 0.873588,0 1.572625,0.118955 2.185517,0.332349 V 106.82387 H 16.99416 16.975996 6.9999593 C 5.3430818,106.82387 4,108.19682 4,109.88988 c 0,1.69334 1.3430818,3.066 2.9999593,3.066 H 14.50689 l 2.738048,14.03177 c 0.279896,1.43398 1.511271,2.46598 2.941952,2.46598 h 92.72686 c 1.43068,0 2.66206,-1.032 2.94196,-2.46598 l 2.73806,-14.03177 h 7.50692 c 1.65657,0 2.99996,-1.37266 2.99996,-3.066 0,-1.69275 -1.34339,-3.06542 -2.99996,-3.06542 h -9.96842 -0.0323 -8.96706 V 82.237116 c 0.61318,-0.213394 1.31192,-0.332349 2.18552,-0.332349 1.65657,0 2.99996,-1.372959 2.99996,-3.066008 v -7.346442 c 0,-8.452983 -6.72891,-15.330038 -14.999801,-15.330038 h -22.96838 v -17.13431 c 0,-1.693049 -1.343383,-3.066007 -2.999959,-3.066007 z m 2.999959,6.132612 h 3.599952 v 14.067705 h -3.599909 z m -28.968313,20.19972 h 61.536664 c 4.962541,0 8.999881,4.126233 8.999881,9.198023 v 4.609791 c -2.80496,0.656739 -4.57108,2.175758 -6.06086,3.457044 -1.642173,1.412202 -2.726741,2.345615 -5.196607,2.345615 -2.469866,0 -3.554732,-0.933413 -5.19661,-2.345615 -1.961073,-1.686918 -4.40218,-3.786401 -9.060816,-3.786401 -4.658335,0 -7.098282,2.099483 -9.059055,3.786401 -1.642177,1.412202 -2.726756,2.345615 -5.196023,2.345615 -2.469567,0 -3.554147,-0.933413 -5.196025,-2.345615 -1.960774,-1.686918 -4.401003,-3.786401 -9.05964,-3.786401 -4.658337,0 -7.09887,2.099483 -9.059643,3.786401 -1.641878,1.412202 -2.726471,2.345615 -5.195438,2.345615 -2.468966,0 -3.55416,-0.933413 -5.195437,-2.345615 -1.48948,-1.281286 -3.255623,-2.800612 -6.059684,-3.457044 v -4.609791 h -6.01e-4 c 0,-5.07179 4.037346,-9.198023 8.99988,-9.198023 z m 16.510321,19.610473 c 2.469567,0 3.554147,0.933412 5.196025,2.345614 1.960773,1.686919 4.401303,3.786401 9.05964,3.786401 4.658337,0 7.098569,-2.099482 9.059643,-3.786401 1.641878,-1.412816 2.726471,-2.345614 5.195438,-2.345614 2.469867,0 3.555318,0.933412 5.197195,2.345614 1.961074,1.686919 4.401592,3.786401 9.060228,3.786401 2.624365,0 4.544715,-0.666148 6.071995,-1.549772 v 20.33745 H 31.967589 V 86.488209 c 1.526979,0.88301 3.446478,1.548573 6.069643,1.548573 4.658337,0 7.09857,-2.099482 9.059643,-3.786401 1.641878,-1.412509 2.726471,-2.345614 5.195438,-2.345614 z M 20.625165,112.95648 h 91.850895 l -2.02321,10.36574 H 22.647794 Z" />
+   <path
+       id="travel"
+       d="m 71.374434,5.8232323 q -4.471356,0 -12.1292,7.6578397 L 46.910452,25.815854 8.5698432,18.466382 8.2614737,18.414985 q -0.7195289,0 -1.1820834,0.462555 l -3.2892747,3.289274 q -0.4625543,0.462555 -0.4625543,1.182085 0,1.079291 0.9251086,1.490452 L 33.804749,38.921559 21.212993,51.513314 Q 8.9810023,48.01846 8.2614737,48.01846 q -0.7195289,0 -1.1820834,0.462554 l -3.2892747,3.289275 q -0.4625543,0.462553 -0.4625543,1.182082 0,0.925109 0.8223188,1.439059 l 14.3905769,7.966212 7.966213,14.390577 q 0.462555,0.873714 1.439058,0.873714 0.719528,0 1.182082,-0.462554 l 3.34067,-3.289274 q 0.462554,-0.462556 0.462554,-1.182084 0,-0.719528 -3.494854,-12.95152 l 12.591755,-12.591756 14.082208,29.55208 q 0.411161,0.925108 1.490452,0.925108 0.71953,0 1.182084,-0.462554 l 3.289275,-3.289274 q 0.462555,-0.462556 0.462555,-1.182084 0,-0.20558 -0.0514,-0.30837 L 55.133639,34.039042 67.468422,21.70426 q 7.65784,-7.657844 7.65784,-12.1291989 0,-1.6446384 -1.053594,-2.6982357 -1.053597,-1.0535931 -2.698234,-1.0535931 z" />
+  </defs>
+  <use
+     transform="matrix(0.46648593,0,0,0.46649874,-2.298414,-2.7566143)"
+     width="100%"
+     height="100%"
+     font-family="'DejaVu Sans'"
+     xlink:href="#$clicon1"
+     id="use34"
+     x="0"
+     y="0" />
+  <use
+     transform="matrix(0.46648593,0,0,0.46649874,-3.089764,57.006706)"
+     width="100%"
+     height="100%"
+     font-family="'DejaVu Sans'"
+     xlink:href="#$clicon2"
+     id="use34-7"
+     x="0"
+     y="0" />
+  <use
+     transform="matrix(0.46648593,0,0,0.46649874,-3.089774,116.84278)"
+     width="100%"
+     height="100%"
+     font-family="'DejaVu Sans'"
+     xlink:href="#$clicon3"
+     id="use34-7-3"
+     x="0"
+     y="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="30.843044"
+     y="49.473488"
+     id="text10352"><tspan
+       sodipodi:role="line"
+       id="tspan10350"
+       x="30.843044"
+       y="49.473488"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">$CAL1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="30.289669"
+     y="109.64664"
+     id="text10352-8"><tspan
+       sodipodi:role="line"
+       id="tspan10350-1"
+       x="30.289669"
+       y="109.64664"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">$CAL2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="30.426388"
+     y="169.48277"
+     id="text10352-8-9"><tspan
+       sodipodi:role="line"
+       id="tspan10350-1-8"
+       x="30.426388"
+       y="169.48277"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">$CAL3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="59.895874"
+     y="32.161995"
+     id="text61896"><tspan
+       sodipodi:role="line"
+       id="tspan61894"
+       x="59.895874"
+       y="32.161995">$CLD1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="60.046753"
+     y="54.035225"
+     id="text61896-9"><tspan
+       sodipodi:role="line"
+       id="tspan61894-8"
+       x="60.046753"
+       y="54.035225">$CLT1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="60.866455"
+     y="92.01667"
+     id="text61896-7"><tspan
+       sodipodi:role="line"
+       id="tspan61894-0"
+       x="60.866455"
+       y="92.01667">$CLD2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="61.017334"
+     y="114.70957"
+     id="text61896-9-4"><tspan
+       sodipodi:role="line"
+       id="tspan61894-8-3"
+       x="61.017334"
+       y="114.70957">$CLT2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="61.18808"
+     y="151.49208"
+     id="text61896-7-7"><tspan
+       sodipodi:role="line"
+       id="tspan61894-0-4"
+       x="61.18808"
+       y="151.49208">$CLD3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="61.338959"
+     y="174.18492"
+     id="text61896-9-4-8"><tspan
+       sodipodi:role="line"
+       id="tspan61894-8-3-4"
+       x="61.338959"
+       y="174.18492">$CLT3</tspan></text>
+  <use
+     transform="matrix(0.46648593,0,0,0.46649874,-2.340974,175.79018)"
+     width="100%"
+     height="100%"
+     font-family="'DejaVu Sans'"
+     xlink:href="#$clicon4"
+     id="use34-7-3-0"
+     x="0"
+     y="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="31.175198"
+     y="228.43016"
+     id="text10352-8-9-3"><tspan
+       sodipodi:role="line"
+       id="tspan10350-1-8-5"
+       x="31.175198"
+       y="228.43016"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">$CAL4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="61.93689"
+     y="210.43944"
+     id="text61896-7-7-2"><tspan
+       sodipodi:role="line"
+       id="tspan61894-0-4-1"
+       x="61.93689"
+       y="210.43944">$CLD4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="62.087769"
+     y="233.13231"
+     id="text61896-9-4-8-7"><tspan
+       sodipodi:role="line"
+       id="tspan61894-8-3-4-2"
+       x="62.087769"
+       y="233.13231">$CLT4</tspan></text>
+  <use
+     transform="matrix(0.46648593,0,0,0.46649874,-1.445764,235.28361)"
+     width="100%"
+     height="100%"
+     font-family="'DejaVu Sans'"
+     xlink:href="#$clicon5"
+     id="use34-7-3-0-8"
+     x="0"
+     y="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="32.070431"
+     y="287.92355"
+     id="text10352-8-9-3-8"><tspan
+       sodipodi:role="line"
+       id="tspan10350-1-8-5-5"
+       x="32.070431"
+       y="287.92355"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">$CAL5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="62.832123"
+     y="269.93283"
+     id="text61896-7-7-2-2"><tspan
+       sodipodi:role="line"
+       id="tspan61894-0-4-1-7"
+       x="62.832123"
+       y="269.93283">$CLD5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="62.983002"
+     y="292.6257"
+     id="text61896-9-4-8-7-8"><tspan
+       sodipodi:role="line"
+       id="tspan61894-8-3-4-2-3"
+       x="62.983002"
+       y="292.6257">$CLT5</tspan></text>
+  <use
+     transform="matrix(0.46648593,0,0,0.46649874,-0.6955112,293.99224)"
+     width="100%"
+     height="100%"
+     font-family="'DejaVu Sans'"
+     xlink:href="#$clicon6"
+     id="use34-7-3-0-8-5"
+     x="0"
+     y="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="32.820675"
+     y="346.6322"
+     id="text10352-8-9-3-8-0"><tspan
+       sodipodi:role="line"
+       id="tspan10350-1-8-5-5-0"
+       x="32.820675"
+       y="346.6322"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">$CAL6</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="63.582382"
+     y="328.64148"
+     id="text61896-7-7-2-2-3"><tspan
+       sodipodi:role="line"
+       id="tspan61894-0-4-1-7-0"
+       x="63.582382"
+       y="328.64148">$CLD6</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+     x="63.733261"
+     y="351.33435"
+     id="text61896-9-4-8-7-8-8"><tspan
+       sodipodi:role="line"
+       id="tspan61894-8-3-4-2-3-4"
+       x="63.733261"
+       y="351.33435">$CLT6</tspan></text>
+</svg>

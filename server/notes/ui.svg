@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="ui.svg"
+   width="275"
+   height="300"
+   version="1.1"
+   id="svg-notes"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <linearGradient
+       id="linearGradient3168">
+      <stop
+         id="stop3170"
+         style="stop-color:#f7ec9a"
+         offset="0" />
+      <stop
+         id="stop3176"
+         style="stop-color:#f6ea8d"
+         offset=".13401" />
+      <stop
+         id="stop3180"
+         style="stop-color:#f5e98a"
+         offset=".45674" />
+      <stop
+         id="stop3178"
+         style="stop-color:#f8ed9d"
+         offset=".80934" />
+      <stop
+         id="stop3172"
+         style="stop-color:#f5e98a"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.8031223"
+     inkscape:cx="112.30519"
+     inkscape:cy="163.0505"
+     inkscape:window-width="1718"
+     inkscape:window-height="1368"
+     inkscape:window-x="1706"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     transform="translate(-220.38484,-34.632433)">
+    <rect
+       id="rect4857"
+       style="opacity:0.44783;fill-opacity:0;stroke-width:0.87095"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/tmp/note.png"
+       height="273.73096"
+       width="293.01376"
+       inkscape:export-xdpi="90"
+       y="43.434006"
+       x="216.29712" />
+    <rect
+       style="fill:#e6e6e6;fill-rule:evenodd"
+       id="rect552"
+       width="246.23953"
+       height="268.42328"
+       x="232.58589"
+       y="52.379429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="235.67778"
+       y="75.973946"
+       id="text1838"><tspan
+         sodipodi:role="line"
+         id="tspan1836"
+         x="235.67778"
+         y="75.973946"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">$NOTE_TITLE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="247.32037"
+       y="108.14037"
+       id="text3590"><tspan
+         sodipodi:role="line"
+         id="tspan3588"
+         x="247.32037"
+         y="108.14037"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">$NOTE1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="247.32037"
+       y="136.08383"
+       id="text3590-3"><tspan
+         sodipodi:role="line"
+         id="tspan3588-8"
+         x="247.32037"
+         y="136.08383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">$NOTE2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="247.32037"
+       y="164.02727"
+       id="text3590-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan3588-8-9"
+         x="247.32037"
+         y="164.02727"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">$NOTE3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="247.32037"
+       y="191.97073"
+       id="text3590-3-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan3588-8-9-9"
+         x="247.32037"
+         y="191.97073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">$NOTE4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="247.32037"
+       y="219.91418"
+       id="text3590-3-3-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan3588-8-9-9-2"
+         x="247.32037"
+         y="219.91418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">$NOTE5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="247.32037"
+       y="247.85764"
+       id="text3590-3-3-9-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan3588-8-9-9-2-0"
+         x="247.32037"
+         y="247.85764"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">$NOTE6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="247.32037"
+       y="275.80109"
+       id="text3590-3-3-9-5-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan3588-8-9-9-2-0-3"
+         x="247.32037"
+         y="275.80109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">$NOTE7</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.0967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 491.9116,40.42542 c -267.86869,0 -267.86869,0 -267.86869,0"
+       id="path177" />
+  </g>
+</svg>
